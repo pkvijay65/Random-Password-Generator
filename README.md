@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@GitHub]()
-- Live Site URL: [@GitHub]()
+- Solution URL: [@GitHub](https://github.com/pkvijay65/Random-Password-Generator/)
+- Live Site URL: [@GitHub](https://iridescent-twilight-a95390.netlify.app/)
 
 
